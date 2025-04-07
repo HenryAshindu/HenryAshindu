@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... Laravel Projects.
-- 🌱 I’m currently learning ... DevOps.
+- 🌱 I’m currently learning ... VueJS and DevOps.
 - 👯 I’m looking to collaborate on ...Software Development.
 - 🤔 I’m looking for help with ...Getting online gigs that actually pay.
 - 💬 Ask me about ...Technology, Comedy, Anime, Software Development and IT related topics.
